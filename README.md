@@ -1,6 +1,6 @@
-# neobank
+# Neobank
 
-A project in Flutter.
+A project bank in Flutter.
 
 ## Getting Started
 
